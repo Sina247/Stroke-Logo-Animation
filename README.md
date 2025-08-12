@@ -1,4 +1,4 @@
-# ✏🖋️ Stroke Logo Animation
+# 🖋️ Stroke Logo Animation
 
 A sleek and elegant **Stroke Logo Animation** built with **HTML**, **CSS** and **JavaScript**. This animation dynamically draws your logo’s outline, adding a modern and minimalistic touch to any web interface.
 
